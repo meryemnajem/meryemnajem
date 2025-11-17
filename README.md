@@ -82,20 +82,7 @@
  
 <br> 
 
----
 
-<p align="center">
-	<a href="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes">
-		<img 
-		     alt="Quote"
-		     src="https://github-readme-quotes-bay.vercel.app/quote?theme=default&animation=grow_out_in&layout=samuel&font=default&quoteType=random&bgColor=gray&fontColor=white"
-		/>
-	</a>
-</p>
-
-</details>
-
-</br></br>
 ---
 
 
