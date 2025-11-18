@@ -39,7 +39,6 @@
 <p align="center">
 	<a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRlQQJKCQkLDwlBzkQVlpxKkPQJJbDqwLknbkpgzMSjBfmdBGQhsQVrZLhWlrQRHXVdsNTQ"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/meryemnajem"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://wa.me/0764373582"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
 	<a href="https://linkedin.com/in/meryemnajem"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
