@@ -65,9 +65,7 @@
 <p align="center">
 &emsp; 
 <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white"></a>
-  &emsp;
-<a href="#"><img src="https://img.shields.io/badge/latex-%23008080.svg?&style=plastic&logo=latex&logoColor=white" /></a>
-    &emsp;
+&emsp;
 <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white"> &emsp; <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white"> &emsp; <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=plastic&logo=mongodb&logoColor=white"> &emsp; <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=plastic&logo=microsoftsqlserver&logoColor=white"> &emsp; <img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000.svg?style=plastic&logo=markdown&logoColor=white"> &emsp; <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-%23008080.svg?style=plastic&logo=latex&logoColor=white"> </p>
 
 ### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="50px"></picture> Simulation & Engineering Software
